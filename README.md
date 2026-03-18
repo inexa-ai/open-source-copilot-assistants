@@ -27,13 +27,6 @@ A curated collection of specialized System Instructions for GitHub Copilot. Thes
  * Svelte JS Agent.agent.md
  * Vue JS Agent.agent.md
 
-| Framework | File | Focus Area |
-| :--- | :--- | :--- |
-| **React** | [`/agents/react.md`](#) | Hooks, Performance, TypeScript |
-| **Next.js** | [`/agents/nextjs.md`](#) | App Router, SSR, Server Actions |
-| **FastAPI** | [`/agents/fastapi.md`](#) | Pydantic v2, Async, Dependency Injection |
-| **Tailwind CSS** | [`/agents/tailwind.md`](#) | Utility classes, Config, Responsive Design |
-
 > [!TIP]
 > Don't see your framework? Feel free to open a PR!
 
