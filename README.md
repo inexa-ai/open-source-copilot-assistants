@@ -10,6 +10,22 @@ A curated collection of specialized System Instructions for GitHub Copilot. Thes
 ---
 
 ## 📂 Available Agents
+ * Angular Agent.agent.md
+ * Dart Flutter Agent.agent.md
+ * Docker Agent.agent.md
+ * DotNet Agent.agent.md
+ * Java 17lts Agent.agent.md
+ * Node Express Prisma Agent.agent.md
+ * PHP Laravel Agent.agent.md
+ * Playwright Test Generator.agent.md
+ * Python Fastapi Agent.agent.md
+ * React JS TS Agent.agent.md
+ * React Native Agent.agent.md
+ * SecurityEvaluationAgent-CICD.agent.md
+ * SecurityEvaluationAgent.agent.md
+ * SQL Agent.agent.md
+ * Svelte JS Agent.agent.md
+ * Vue JS Agent.agent.md
 
 | Framework | File | Focus Area |
 | :--- | :--- | :--- |
